@@ -1,14 +1,24 @@
 title: Data Science Project Showcase
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Niharika Avula
+  email: avulaniharika@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an description for your site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+Research consistently shows a positive correlation between access to urban greenery or nature and improved mental health. Studies have shown that people living in areas with more green spaces tend to report higher levels of overall well-being.
+- Reduced stress and anxiety
+- Improved mood
+- Enhanced cognitive function
+- Physical activity promotion
+
+By combining environmental and mental health data, this project seeks to highlight how urban greenery can be a low-cost, natural intervention for improving mental wellbeing. Data-driven insights can help Policy makers, city planners, and mental health specialists to make informed decisions to foster healthier, greener, and more resilient urban communities. Therefore, the objective of this project is to evaluating the effectiveness of Urban Greenery in Singapore
+- Analyzing tree canopy distribution across neighborhoods to determine whether greenery is equitably distributed
+- Assessing correlations between green cover and socio-demographic factors to identify disparities
+- Providing insights for urban planners to optimize green spaces for public mental health benefits
+
+
+
 
 # Build settings
 
