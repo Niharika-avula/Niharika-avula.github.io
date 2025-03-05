@@ -19,7 +19,6 @@ natural intervention for improving mental wellbeing. Data-driven insights can he
 - Providing insights for urban planners to optimize green spaces for public mental health benefits
 
 ## Work Accomplished
-Document your work done to accomplish the outcome
 
 ### Data Preparation
 
